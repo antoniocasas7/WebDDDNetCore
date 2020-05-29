@@ -18,9 +18,11 @@ using System.Net;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebDDDNetCore.Controllers
 {
+    [Authorize]
     public class PersonasController : Controller
     {
         private readonly ApplicationDbContext db;
