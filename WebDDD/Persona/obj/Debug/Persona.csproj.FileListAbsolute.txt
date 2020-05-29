@@ -12,3 +12,11 @@ C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Persona\obj\Debug\Persona.cspr
 C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Persona\obj\Debug\Persona.csproj.CopyComplete
 C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Persona\obj\Debug\Persona.dll
 C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Persona\obj\Debug\Persona.pdb
+C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Persona\bin\Debug\Persona.dll
+C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Persona\bin\Debug\Persona.pdb
+C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Persona\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Persona\obj\Debug\Persona.csprojAssemblyReference.cache
+C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Persona\obj\Debug\Persona.csproj.CopyComplete
+C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Persona\obj\Debug\Persona.dll
+C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Persona\obj\Debug\Persona.pdb

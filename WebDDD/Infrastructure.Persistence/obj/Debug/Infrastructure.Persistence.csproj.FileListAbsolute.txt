@@ -172,7 +172,6 @@ C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Infrastructure.Persistence\bin\Debug\JetB
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Infrastructure.Persistence\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Infrastructure.Persistence\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Infrastructure.Persistence\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Infrastructure.Persistence\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Infrastructure.Persistence\bin\Debug\Microsoft.Owin.xml
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Infrastructure.Persistence\bin\Debug\Microsoft.Owin.Cors.xml
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\Infrastructure.Persistence\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml

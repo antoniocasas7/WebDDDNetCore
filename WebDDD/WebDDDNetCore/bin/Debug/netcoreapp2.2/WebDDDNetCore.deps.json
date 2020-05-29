@@ -910,9 +910,7 @@
       },
       "Infrastructure.Messaging/1.0.0": {
         "dependencies": {
-          "Domain.Core": "1.0.0",
-          "MassTransit.Transports.RabbitMq": "2.10.0.0",
-          "RabbitMQ.Client": "3.4.3.0"
+          "Domain.Core": "1.0.0"
         },
         "runtime": {
           "Infrastructure.Messaging.dll": {}
@@ -965,27 +963,11 @@
           "traducciones.dll": {}
         }
       },
-      "MassTransit.Transports.RabbitMq.Reference/2.10.0.0": {
-        "runtime": {
-          "MassTransit.Transports.RabbitMq.dll": {
-            "assemblyVersion": "2.10.0.0",
-            "fileVersion": "2.10.2.0"
-          }
-        }
-      },
       "Dapper.Reference/1.60.0.0": {
         "runtime": {
           "Dapper.dll": {
             "assemblyVersion": "1.60.0.0",
             "fileVersion": "1.60.6.27094"
-          }
-        }
-      },
-      "RabbitMQ.Client.Reference/3.4.3.0": {
-        "runtime": {
-          "RabbitMQ.Client.dll": {
-            "assemblyVersion": "3.4.3.0",
-            "fileVersion": "3.4.3.0"
           }
         }
       },
@@ -4589,17 +4571,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MassTransit.Transports.RabbitMq.Reference/2.10.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Dapper.Reference/1.60.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "RabbitMQ.Client.Reference/3.4.3.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

@@ -24,8 +24,8 @@ namespace WebDDDNetCore.Controllers
         //}
         public IActionResult Index()
         {
-            return View();
-          // return RedirectToAction("Index", "Personas");
+          //  return View();
+           return RedirectToAction("Index", "Personas");
         }
 
         public IActionResult Privacy()

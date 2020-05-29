@@ -74,9 +74,7 @@ C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\Inf
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\Infrastructure.Persistence.dll
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\InfrastructureCache.dll
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\traducciones.dll
-C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\MassTransit.Transports.RabbitMq.dll
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\Dapper.dll
-C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\RabbitMQ.Client.dll
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\Aplication.Services.pdb
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\Aplication.Services.dll.config
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\Domain.Core.pdb
@@ -87,10 +85,7 @@ C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\Inf
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\InfrastructureCache.pdb
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\InfrastructureCache.dll.config
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\traducciones.pdb
-C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\MassTransit.Transports.RabbitMq.pdb
-C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\MassTransit.Transports.RabbitMq.xml
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\Dapper.xml
-C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\RabbitMQ.Client.xml
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\de-DE\traducciones.resources.dll
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\es-ES\traducciones.resources.dll
 C:\Desarrollo\GITHUB\DDDNetCore\WebDDD\WebDDDNetCore\bin\Debug\netcoreapp2.2\fr-FR\traducciones.resources.dll
