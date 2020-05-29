@@ -1,0 +1,17 @@
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\Domain.Core.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\Domain.Core.pdb
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\System.ServiceModel.Primitives.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\traducciones.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\traducciones.pdb
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\de-DE\traducciones.resources.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\es-ES\traducciones.resources.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\bin\Release\fr-FR\traducciones.resources.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\obj\Release\Domain.Core.csprojAssemblyReference.cache
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\obj\Release\Domain.Core.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\obj\Release\Domain.Core.csproj.CopyComplete
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\obj\Release\Domain.Core.dll
+C:\Desarrollo\Desarrollo_Mio_WebDDDNetCORE\WebDDD\Domain.Core\obj\Release\Domain.Core.pdb

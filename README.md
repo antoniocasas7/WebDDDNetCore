@@ -1,2 +1,1 @@
-# WEBDDDNetCore
-Web DDD Net Core
+# webDDD

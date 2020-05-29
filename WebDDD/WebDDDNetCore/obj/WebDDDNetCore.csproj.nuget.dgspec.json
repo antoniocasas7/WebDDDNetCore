@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\WebDDDNetCore\\WebDDDNetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Desarrollo\\GITHUB\\DDDNetCore\\Aplication.Services\\Aplication.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\Aplication.Services\\Aplication.Services.csproj",
+        "projectName": "Aplication.Services",
+        "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\Aplication.Services\\Aplication.Services.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj",
+        "projectName": "Domain.Core",
+        "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Traducciones\\Traducciones.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Traducciones\\Traducciones.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj",
+        "projectName": "Infrastructure.Messaging",
+        "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+        "projectName": "Infrastructure.Persistence",
+        "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\Aplication.Services\\Aplication.Services.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\Aplication.Services\\Aplication.Services.csproj"
+              },
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj"
+              },
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\InfrastructureCache\\InfrastructureCache.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\InfrastructureCache\\InfrastructureCache.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\InfrastructureCache\\InfrastructureCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\InfrastructureCache\\InfrastructureCache.csproj",
+        "projectName": "InfrastructureCache",
+        "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\InfrastructureCache\\InfrastructureCache.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Traducciones\\Traducciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Traducciones\\Traducciones.csproj",
+        "projectName": "Traducciones",
+        "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Traducciones\\Traducciones.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\WebDDDNetCore\\WebDDDNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\WebDDDNetCore\\WebDDDNetCore.csproj",
+        "projectName": "WebDDDNetCore",
+        "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\WebDDDNetCore\\WebDDDNetCore.csproj",
+        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\WebDDDNetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\Aplication.Services\\Aplication.Services.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\Aplication.Services\\Aplication.Services.csproj"
+              },
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Domain.Core\\Domain.Core.csproj"
+              },
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj"
+              },
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj"
+              },
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\InfrastructureCache\\InfrastructureCache.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\InfrastructureCache\\InfrastructureCache.csproj"
+              },
+              "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Traducciones\\Traducciones.csproj": {
+                "projectPath": "C:\\Desarrollo\\GITHUB\\DDDNetCore\\WebDDD\\Traducciones\\Traducciones.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.3, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Autofac.Extras.CommonServiceLocator": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "MassTransit": {
+              "target": "Package",
+              "version": "[2.10.2, )"
+            },
+            "MassTransit.Log4Net": {
+              "target": "Package",
+              "version": "[2.10.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNet.Identity.Owin": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.WebHost": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Caching.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Owin": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.Owin.Host.SystemWeb": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.Owin.Security.Cookies": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.Owin.Security.MicrosoftAccount.es": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.Owin.Security.OAuth": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.7.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
